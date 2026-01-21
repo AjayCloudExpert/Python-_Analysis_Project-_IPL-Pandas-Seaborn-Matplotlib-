@@ -8,8 +8,8 @@ Using Python, this project demonstrates the complete data analysis workflow, inc
 
 The project makes extensive use of Python libraries such as:
 
-Pandas and NumPy for data manipulation and analysis
-
-Matplotlib and Seaborn for data visualization
+    -> Pandas and NumPy for data manipulation and analysis
+  
+    -> Matplotlib and Seaborn for data visualization
 
 This project showcases practical data analytics skills and highlights how data-driven insights can enhance the understanding of sports performance and team dynamics.
