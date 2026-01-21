@@ -1,5 +1,5 @@
-📊 IPL 2022 Capstone Project – Data Analysis & Visualization
-🔹 Detailed Description
+#📊 IPL 2022 Capstone Project – Data Analysis & Visualization
+##🔹 Detailed Description
 
 The IPL 2022 Capstone Project focuses on analyzing match-level data from the Indian Premier League (IPL) 2022 season to extract meaningful insights related to match outcomes, team performance, and player contributions.
 
